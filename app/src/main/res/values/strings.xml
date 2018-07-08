@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L Care</string>
+    <string name="title_activity_maps">Donors Locations</string>
+    <string name="eligibility_">Eligibility Requirements</string>
+    <string name="female_">If you are female, you must:\nBe healthy and feeling well\nBe at least 17 years old in most states\nBe at least 5 ft 5 inch\nWeigh at least 150 lbs.</string>
+    <string name="male_">If you are male, you must:\nBe healthy and feeling well\nBe at least 17 years old in most states\nBe at least 5 ft 1 inch \nWeigh at least 130 lbs.\n</string>
+    <string name="info_">Giving blood saves lives. When you donate blood, you impact not only the patient whose life may depend on your donation, but also all those who depend on that patient. The entire community will benefit from he spirit of generosity.</string>
+    <string name="daily">Daily Quote Will Appear Here</string>
+</resources>
